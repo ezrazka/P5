@@ -63,7 +63,7 @@ nav {
     left: 0;
     width: 100%;
     z-index: 998;
-    padding: 15px 40px;
+    padding: 15px 60px;
     background-color: rgba(0, 0, 0, 0.4);
     display: flex;
     justify-content: flex-start;
@@ -83,7 +83,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #f0e5d8;
+    color: gold;
     text-decoration: none;
     transition: color 0.3s ease;
 }
@@ -111,7 +111,7 @@ header {
 
 header #title {
     font-size: 6rem;
-    margin-top: 220px;
+    margin-top: 35vh;
 }
 
 header p {
